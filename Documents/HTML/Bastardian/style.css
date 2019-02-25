@@ -70,6 +70,9 @@ html, body {
   h1 {
     flex: 5;
     text-transform: uppercase;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-size: 50px;
   }
   
   header img {
@@ -150,6 +153,9 @@ html, body {
     background: #cc0;
     padding: 0;
     margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-size: 30px;
   }
   dd{
     float: left;
@@ -157,6 +163,9 @@ html, body {
     background: #dd0;
     padding: 0;
     margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-size: 30px;
   }
   footer {
     margin-top: 10px;
